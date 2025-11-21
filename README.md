@@ -44,6 +44,18 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vaishnavinandi26&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 ---
+# 📜 Certifications
+
+This repository contains all the professional certifications I have
+completed.
+
+## 🏅 Achieved Certifications
+
+-   **Minor Degree in Data Science** -- JNTUH
+-   **Python Programming Certification** -- Codetantra
+-   **Full Stack Java Development Certification** -- Simplilearn
+-   **NLP, ChatGPT & Prompt Engineering Certification** -- ExcelR
+----
 
 ### 💬 Connect With Me
 
