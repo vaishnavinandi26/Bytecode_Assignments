@@ -95,10 +95,6 @@ Data Science, Python Development, AI, and Full Stack Development.
 
 ------------------------------------------------------------------------
 
-## 📁 Certificate Links (Optional)
-
-Share certificate URLs or upload PDFs/images to include them here.
-
 ------------------------------------------------------------------------
 ### 💬 Connect With Me
 
