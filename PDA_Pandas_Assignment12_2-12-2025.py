@@ -9,7 +9,7 @@ import numpy as np
 import random
 df=pd.DataFrame(
     np.random.randint(1,101,(10,5)),
-    columns=['A','B','C','D','F'])
+    columns=['A','B','C','D','G'])
 print("Data Frame:\n",df)
 a=df.iloc[3,2]
 a
