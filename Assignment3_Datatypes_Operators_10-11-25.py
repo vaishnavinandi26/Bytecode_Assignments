@@ -63,7 +63,7 @@ else:
 # In[10]:
 
 
-a=20
+a=25
 b=2.4
 c="Python"
 d=True
